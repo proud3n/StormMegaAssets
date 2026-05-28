@@ -1,0 +1,5 @@
+RP - Resistance Points - back 3p 
+AP - Attack Points - weapon 1p chest 1p - total 2p 
+DP - Deflect Points
+BP - Booster Points
+SP - Shield Points
